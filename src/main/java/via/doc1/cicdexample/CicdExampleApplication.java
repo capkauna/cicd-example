@@ -27,6 +27,3 @@ public class CicdExampleApplication {
     }
 
 }
-public void test() {
-    System.out.println("Test method");
-}
